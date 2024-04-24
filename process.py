@@ -145,5 +145,5 @@ def process(file_path):
     # Print the number of positive and negative comments
     return positive_comments, negative_comments, neutral_comments
     
-print(process('/Users/rathanak/Desktop/CSB_Final_Project/test_data.csv'))    
+ 
 
